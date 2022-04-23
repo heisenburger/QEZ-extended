@@ -1,12 +1,20 @@
-# QEZ
+# QEZ_extended
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-### A seamless, gasketmounted QAZ-like 40% keyboard
+Forked from [QEZ by kb_elmo](https://github.com/kb-elmo/QEZ). This is my first attempt at building a keyboard from the PCB up. I'm not experienced in hardware / firmware projects at all, so I am learning slowly but lots as I go :)
 
-<img src="https://i.imgur.com/x00N9f3.jpg" alt="header" width="800"/>
+### Todo
+
+- [ ] Layout design
+- [ ] Keymap design
+- [ ] PCB mockup
+- [ ] Case design
+
 
 ---
+
+### The following is unedited from [kb_elmo](https://github.com/kb-elmo/)'s original readme:
 
 [STEP files for the case](case/)
 
