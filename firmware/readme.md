@@ -1,8 +1,6 @@
-# QEZ
+# QEZ_extended
 
-![qez](https://i.imgur.com/x00N9f3l.jpg)
-
-A seamless gasketmounted QAZ-like 40% keyboard
+A QAZ-like 40% keyboard with just a few more keys :) 
 
 * Keyboard Maintainer: [kb-elmo](https://github.com/kb-elmo)
 * Hardware Supported: QEZ rev.1 PCB
